@@ -1,0 +1,8 @@
+// arbol
+digraph {
+	0 [label=p shape=circle]
+	1 [label=q shape=circle]
+	2 [label="^" shape=circle]
+	2 -> 0
+	2 -> 1
+}
